@@ -75,6 +75,12 @@ function alphabeta(node, depth, alpha, beta, maximizingPlayer):
 
 ## Visualisation
 
+![image](https://github.com/Sre-n/NeuroNexus/assets/92539781/9a40b4e3-cbf2-421d-9d25-2e66424079f8)
+
+
 ## References
 
+- https://en.wikipedia.org/wiki/Minimax
+
+- https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
         
