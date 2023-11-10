@@ -70,7 +70,7 @@ function alphabeta(node, depth, alpha, beta, maximizingPlayer):
             beta = min(beta, eval)
             if beta <= alpha:
                 break  // Alpha cutoff
-
+```
 
 ## Visualisation
 
