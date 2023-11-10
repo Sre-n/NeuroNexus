@@ -24,6 +24,11 @@ The primary objective of AnimeRecommender is to provide anime enthusiasts with a
 - Catering to a variety of anime genres, themes, and artistic styles to provide a well-rounded viewing experience.
 
 
+
+## Datasets
+
+https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+
 ## Conclusion
 
 The Anime Recommendation System aims to revolutionize the anime viewing experience by offering users personalized, accurate, and diverse recommendations. Through a combination of advanced algorithms, collaborative filtering, and continuous learning, this system seeks to elevate user satisfaction and engagement in the dynamic world of anime entertainment.
