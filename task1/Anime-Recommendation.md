@@ -27,5 +27,5 @@ The primary objective of AnimeRecommender is to provide anime enthusiasts with a
 ## Conclusion
 
 The Anime Recommendation System aims to revolutionize the anime viewing experience by offering users personalized, accurate, and diverse recommendations. Through a combination of advanced algorithms, collaborative filtering, and continuous learning, this system seeks to elevate user satisfaction and engagement in the dynamic world of anime entertainment.
----
+
 
