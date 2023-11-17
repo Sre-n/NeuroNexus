@@ -35,6 +35,10 @@ https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 
 
 
+https://github.com/Sre-n/NeuroNexus/assets/92539781/af94bc27-6bd2-46a2-9464-955e94c8ec50
+
+
+
 
 
 ## Conclusion
