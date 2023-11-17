@@ -77,6 +77,10 @@ function alphabeta(node, depth, alpha, beta, maximizingPlayer):
 
 ![image](https://github.com/Sre-n/NeuroNexus/assets/92539781/9a40b4e3-cbf2-421d-9d25-2e66424079f8)
 
+## DEMO
+
+https://github.com/Sre-n/NeuroNexus/assets/92539781/c791eaaf-8cbc-42a5-ad63-66fbdff99563
+
 
 ## References
 
